@@ -12,5 +12,12 @@ In our analysis we segmented the ride share data into rural, suburban and urban 
 
 After performing our analysis it became clear that the rural segment of the market was being underserved in terms of the number of drivers. This lack of drivers may have resulted in higher fares during peak demand times. It was also clear that there was an oversaturation of drivers in the Urban segment of the market as there were nearly 800 more drivers than actual rides taken. The rural segment also generated the lowest total fares for Pyber which can be seen on the graph below.
 
-https://github.com/dubiousmatter/PyBer_Analysis/blob/5c1984c8c05829cdba12454732b51cc226fbf2c2/analysis/PyBer_fare_summary.png
+![Image 4-10-22](https://github.com/dubiousmatter/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
 
+## Summary
+
+As a result of our analysis, we would make the following recommendations to PyBer's CEO:
+
+- Recruit additional drivers for the rural market segment
+- Decrease fares in the rural market
+- Freeze hiring of additional drivers in the urban market segment
